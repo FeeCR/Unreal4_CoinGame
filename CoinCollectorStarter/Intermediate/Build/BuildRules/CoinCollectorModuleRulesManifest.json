@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Fernando\\UnrealCPP\\CoinCollectorStarter\\Source\\CoinCollector\\CoinCollector.Build.cs",
+		"E:\\Fernando\\UnrealCPP\\CoinCollectorStarter\\Source\\CoinCollector.Target.cs",
+		"E:\\Fernando\\UnrealCPP\\CoinCollectorStarter\\Source\\CoinCollectorEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

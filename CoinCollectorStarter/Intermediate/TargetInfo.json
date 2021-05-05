@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CoinCollector",
+			"Path": "E:\\Fernando\\UnrealCPP\\CoinCollectorStarter\\Source\\CoinCollector.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CoinCollectorEditor",
+			"Path": "E:\\Fernando\\UnrealCPP\\CoinCollectorStarter\\Source\\CoinCollectorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

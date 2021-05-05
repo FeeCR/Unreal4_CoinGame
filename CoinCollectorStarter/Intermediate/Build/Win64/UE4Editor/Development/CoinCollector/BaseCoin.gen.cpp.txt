@@ -1,0 +1,5 @@
+E:\Fernando\UnrealCPP\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\Definitions.CoinCollector.h
+D:\Program Files\EpicGames\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\EpicGames\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Fernando\UnrealCPP\CoinCollectorStarter\Source\CoinCollector/BaseCoin.h
+e:\fernando\unrealcpp\coincollectorstarter\intermediate\build\win64\ue4editor\inc\coincollector\BaseCoin.generated.h

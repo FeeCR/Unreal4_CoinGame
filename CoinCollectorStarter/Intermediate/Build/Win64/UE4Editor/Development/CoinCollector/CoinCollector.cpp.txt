@@ -1,0 +1,2 @@
+E:\Fernando\UnrealCPP\CoinCollectorStarter\Intermediate\Build\Win64\UE4Editor\Development\CoinCollector\Definitions.CoinCollector.h
+e:\fernando\unrealcpp\coincollectorstarter\source\coincollector\CoinCollector.h
